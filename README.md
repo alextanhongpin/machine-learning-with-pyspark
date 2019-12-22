@@ -40,3 +40,9 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 export PYSPARK_PYTHON=/usr/local/bin/python3
 ```
+
+## References
+
+The original code can be found here:
+
+- https://github.com/Apress/machine-learning-with-pyspark
